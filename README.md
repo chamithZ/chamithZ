@@ -1,9 +1,10 @@
 ### Hi, I am Chamith 👋
 
--🌱 I am an undergraduate student in faculty of computing in Sliit.
--🔭 I prefer to learn innovative technologies that conquer the software engineering world.
--👯 I would like to meet new teams and collaborate to develop new projects.
--📫 How to reach me: https://chamithkavinda.me/
+- 🌱 I am an undergraduate student in faculty of computing in Sliit.
+- 🔭 I prefer to learn innovative technologies that conquer the software engineering world.
+- 👯 I would like to meet new teams and collaborate to develop new projects.
+- 📫 How to reach me: https://chamithkavinda.me/
+
 <!--
 **it21156960/it21156960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
