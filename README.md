@@ -5,7 +5,6 @@
 - 👯 I would like to meet new teams and collaborate to develop new projects.
 - 📫 How to reach me: https://chamithkavinda.me/
 
-![Profile View Counter](https://komarev.com/ghpvc/?username= chamithZ)
 
 <img src="https://github-readme-stats.vercel.app/api?username=chamithZ&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
