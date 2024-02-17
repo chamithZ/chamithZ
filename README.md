@@ -5,6 +5,7 @@
 - 👯 I would like to meet new teams and collaborate to develop new projects.
 - 📫 How to reach me: https://chamithz.github.io/Portfolio/
 
+[![committers.top badge](https://user-badge.committers.top/sri_lanka/chamithZ.svg)](https://user-badge.committers.top/sri_lanka/chamithZ)
 
 <img src="https://github-readme-stats.vercel.app/api?username=chamithZ&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
