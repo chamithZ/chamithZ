@@ -1,4 +1,4 @@
-![Bottom_down](https://github.com/chamithZ/chamithZ/assets/89042294/2d3265fc-f825-469a-9986-d50809ece859)### Hi, I am Chamith 👋
+### Hi, I am Chamith 👋
 
 - 🌱 I am an undergraduate student in faculty of computing in Sliit.
 - 🔭 I prefer to learn innovative technologies that conquer the software engineering world.
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Bottom_down](https://github.com/chamithZ/chamithZ/assets/89042294/2d3265fc-f825-469a-9986-d50809ece859)
