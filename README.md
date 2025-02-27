@@ -1,6 +1,6 @@
 ### Hi, I am Chamith 👋
 
-- 🌱 I am an undergraduate student in faculty of computing in Sliit.
+- 🌱 I am a final year undergraduate student in faculty of computing in Sliit.
 - 🔭 I prefer to learn innovative technologies that conquer the software engineering world.
 - 👯 I would like to meet new teams and collaborate to develop new projects.
 - 📫 How to reach me: https://chamithz.github.io/Portfolio/
@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Bottom_down](https://github.com/chamithZ/chamithZ/assets/89042294/2d3265fc-f825-469a-9986-d50809ece859)
+
+<h3 align="left">Support</h3>
+<p><a href="https://buymeacoffee.com/chamithkavinda"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="ChamithZ" /></a></p><br><br>
